@@ -1,0 +1,27 @@
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-cologreen;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border 20px solid green;
+}
+
+
+.navbar a {
+  float: left;
+  display: block;
+  color #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border 20px solid yellow;
+}
+
